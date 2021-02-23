@@ -88,7 +88,7 @@ function App() {
           <PokemonInfo pokemonName={pokemonName} />
         </ErrorBoundary>
       </div>
-    </div>
+    </div> 
   )
 }
 
